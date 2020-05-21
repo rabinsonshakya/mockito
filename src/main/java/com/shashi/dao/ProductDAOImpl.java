@@ -13,6 +13,7 @@ public class ProductDAOImpl implements ProductDAO {
 
 	@Override
 	public void remove(ProductEntity entity) throws SQLException {
+		//sme
 		throw new SQLException("This is an error method");
 	}
 
